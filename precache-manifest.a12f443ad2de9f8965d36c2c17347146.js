@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "a1603bcf2c41d3c30280",
+    "revision": "46a6b540eefb1c517782",
     "url": "/testnet-cp-yield-farm/static/css/main.7f6ea087.chunk.css"
   },
   {
-    "revision": "a1603bcf2c41d3c30280",
-    "url": "/testnet-cp-yield-farm/static/js/main.a1603bcf.chunk.js"
+    "revision": "46a6b540eefb1c517782",
+    "url": "/testnet-cp-yield-farm/static/js/main.46a6b540.chunk.js"
   },
   {
     "revision": "41248378dbd58bf6032a",
@@ -24,7 +24,7 @@ self.__precacheManifest = [
     "url": "/testnet-cp-yield-farm/static/media/farmer.700a9837.png"
   },
   {
-    "revision": "d321147073cf16adc5a12f607d425f5e",
+    "revision": "3bca8d6879216d117fee2452cfba0917",
     "url": "/testnet-cp-yield-farm/index.html"
   }
 ];

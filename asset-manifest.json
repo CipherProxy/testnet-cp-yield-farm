@@ -1,7 +1,7 @@
 {
   "main.css": "/testnet-cp-yield-farm/static/css/main.7f6ea087.chunk.css",
-  "main.js": "/testnet-cp-yield-farm/static/js/main.a1603bcf.chunk.js",
-  "main.js.map": "/testnet-cp-yield-farm/static/js/main.a1603bcf.chunk.js.map",
+  "main.js": "/testnet-cp-yield-farm/static/js/main.46a6b540.chunk.js",
+  "main.js.map": "/testnet-cp-yield-farm/static/js/main.46a6b540.chunk.js.map",
   "static/css/1.65bc998c.chunk.css": "/testnet-cp-yield-farm/static/css/1.65bc998c.chunk.css",
   "static/js/1.41248378.chunk.js": "/testnet-cp-yield-farm/static/js/1.41248378.chunk.js",
   "static/js/1.41248378.chunk.js.map": "/testnet-cp-yield-farm/static/js/1.41248378.chunk.js.map",
@@ -11,6 +11,6 @@
   "static/css/main.7f6ea087.chunk.css.map": "/testnet-cp-yield-farm/static/css/main.7f6ea087.chunk.css.map",
   "static/css/1.65bc998c.chunk.css.map": "/testnet-cp-yield-farm/static/css/1.65bc998c.chunk.css.map",
   "index.html": "/testnet-cp-yield-farm/index.html",
-  "precache-manifest.c56b1d3d044a305ddb96cac18991854a.js": "/testnet-cp-yield-farm/precache-manifest.c56b1d3d044a305ddb96cac18991854a.js",
+  "precache-manifest.a12f443ad2de9f8965d36c2c17347146.js": "/testnet-cp-yield-farm/precache-manifest.a12f443ad2de9f8965d36c2c17347146.js",
   "service-worker.js": "/testnet-cp-yield-farm/service-worker.js"
 }
