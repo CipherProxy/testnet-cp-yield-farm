@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/testnet-cp-yield-farm/precache-manifest.f8493b69f357e4f0222f834fdeb0c2f5.js"
+  "/testnet-cp-yield-farm/precache-manifest.63f7c9d215d988ba5377ba214f786d43.js"
 );
 
 workbox.clientsClaim();
