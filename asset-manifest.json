@@ -1,16 +1,16 @@
 {
-  "main.css": "/testnet-cp-yield-farm/static/css/main.55efbb81.chunk.css",
-  "main.js": "/testnet-cp-yield-farm/static/js/main.94c90846.chunk.js",
-  "main.js.map": "/testnet-cp-yield-farm/static/js/main.94c90846.chunk.js.map",
+  "main.css": "/testnet-cp-yield-farm/static/css/main.c0e255e9.chunk.css",
+  "main.js": "/testnet-cp-yield-farm/static/js/main.c6d68605.chunk.js",
+  "main.js.map": "/testnet-cp-yield-farm/static/js/main.c6d68605.chunk.js.map",
   "static/css/1.65bc998c.chunk.css": "/testnet-cp-yield-farm/static/css/1.65bc998c.chunk.css",
   "static/js/1.41248378.chunk.js": "/testnet-cp-yield-farm/static/js/1.41248378.chunk.js",
   "static/js/1.41248378.chunk.js.map": "/testnet-cp-yield-farm/static/js/1.41248378.chunk.js.map",
   "runtime~main.js": "/testnet-cp-yield-farm/static/js/runtime~main.adb43e62.js",
   "runtime~main.js.map": "/testnet-cp-yield-farm/static/js/runtime~main.adb43e62.js.map",
   "static/media/farmer.png": "/testnet-cp-yield-farm/static/media/farmer.700a9837.png",
-  "static/css/main.55efbb81.chunk.css.map": "/testnet-cp-yield-farm/static/css/main.55efbb81.chunk.css.map",
+  "static/css/main.c0e255e9.chunk.css.map": "/testnet-cp-yield-farm/static/css/main.c0e255e9.chunk.css.map",
   "static/css/1.65bc998c.chunk.css.map": "/testnet-cp-yield-farm/static/css/1.65bc998c.chunk.css.map",
   "index.html": "/testnet-cp-yield-farm/index.html",
-  "precache-manifest.e7a38803aacead0d73988ee06a51c1c0.js": "/testnet-cp-yield-farm/precache-manifest.e7a38803aacead0d73988ee06a51c1c0.js",
+  "precache-manifest.f8493b69f357e4f0222f834fdeb0c2f5.js": "/testnet-cp-yield-farm/precache-manifest.f8493b69f357e4f0222f834fdeb0c2f5.js",
   "service-worker.js": "/testnet-cp-yield-farm/service-worker.js"
 }
