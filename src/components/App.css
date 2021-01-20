@@ -1,0 +1,67 @@
+body {
+  padding-top: 60px;
+  padding-right: 30px;
+  padding-bottom: 30px;
+  padding-left: 30px;
+  background-color: #000000;
+  background-image: linear-gradient(90deg, #000000 0%, #04619f 222%);
+
+}
+
+h1 {
+  padding-top: 30px;
+  padding-right: 30px;
+  padding-bottom: 30px;
+  padding-left: 30px;
+  color: #D4AF37;
+  text-align: center;
+  max-width: 600px;
+  margin: 0 auto !important; 
+  float: none !important; 
+
+}
+
+p {
+ color: #FFFFFF;
+ text-align: center;
+ padding-top: 30px;
+ padding-right: 30px;
+ padding-bottom: 30px;
+ padding-left: 30px;
+ border-radius: 22px;
+ background-color: #2d3436;
+ background-image: linear-gradient(315deg, #2d3436 0%, #000000 74%);
+ box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
+ max-width: 600px;
+ margin: 0 auto !important; 
+ float: none !important; 
+
+}
+
+table {
+ background-image: linear-gradient(315deg, #2d3436 0%, #000000 74%);
+ box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
+ border-radius: 4px;
+
+}
+
+button {
+ box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
+
+}
+
+input {
+ box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
+ 
+}
+
+div {
+background-image: linear-gradient(90deg, #000000 0%, #04619f 222%);
+
+}
+
+nav {
+background-image: linear-gradient(315deg, #2d3436 0%, #000000 74%);
+
+}
+
